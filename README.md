@@ -29,7 +29,7 @@ In my free time, I like to draw and work with 3D design. Feel free to check out 
 
 ---
 
-### Languages and Tools
+#### Languages and Tools
 
 <img align="left" alt="HTML" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
