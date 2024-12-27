@@ -1,4 +1,4 @@
-### **`Wir können die Welt verändern – oder zumindest uns selbst!`**
+### **`We can change the world – or at least ourselves!`**
 ---
 Hello 👋
 
